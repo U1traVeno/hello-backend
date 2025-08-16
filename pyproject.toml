@@ -1,0 +1,16 @@
+[project]
+name = "hello-backend"
+version = "0.1.0"
+description = "HDU-CS-Wiki backend introduction"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.116.1",
+]
+
+[project.scripts]
+app = "hello_backend:main"
+
+[build-system]
+requires = ["uv_build>=0.8.8,<0.9.0"]
+build-backend = "uv_build"
