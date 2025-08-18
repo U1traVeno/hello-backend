@@ -112,7 +112,6 @@ def save_db(db):
 fake_items_db = load_db()
 ```
 
-修改 POST 接口以保存数据
 在 create_item 函数里，当接收到新物品后，把它存入我们的 fake_items_db 字典，并调用 save_db() 函数。
 
 ```python
