@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "ms-python.vscode-python-envs",
+        "tamasfe.even-better-toml"
+    ]
+}
