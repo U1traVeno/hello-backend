@@ -4,7 +4,7 @@
         "ms-python.vscode-pylance",
         "ms-python.python",
         "ms-python.debugpy",
-        "ms-python.vscode-python-envs",
-        "tamasfe.even-better-toml"
+        "tamasfe.even-better-toml",
+        "tomoki1207.pdf"
     ]
 }
